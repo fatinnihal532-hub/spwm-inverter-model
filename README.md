@@ -9,6 +9,8 @@ simulated waveform.
 
 Everything runs on a laptop. No hardware, no MATLAB licence, no toolbox.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fatinnihal532-hub/spwm-inverter-model/blob/main/run_in_colab.ipynb)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="figures/scheme_comparison_dark.svg">
   <img alt="Three modulation schemes compared" src="figures/scheme_comparison_light.svg">
